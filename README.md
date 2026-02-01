@@ -25,3 +25,4 @@ Solutions are organized by language and platform. Current and planned languages 
 ---
 
 ## 📁 Repository Structure
+- Each problem will be saved to a single file, and the link to that challenge will be commented at the top of the code as line 1. 
